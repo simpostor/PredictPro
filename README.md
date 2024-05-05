@@ -38,4 +38,3 @@ Welcome to PredictPro, an open-source stock price prediction app! PredictPro is 
 - ta (Technical Analysis Library)
 - scikit-learn
 - XGBoost
-
